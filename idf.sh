@@ -25,7 +25,7 @@ git reset --hard --quiet
 git pull --quiet
 git checkout feature_idf --quiet
 
-echo 'Etape 4.2 - Redémarrage du Raptor'
+echo 'Etape 4.2 - Arrêt et redémarrage du Raptor'
 
 /opt/RRFRaptor/RRFRaptor.sh stop
 sleep 3
