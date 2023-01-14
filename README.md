@@ -38,9 +38,9 @@ Conséquence immédiate, le salon IDF est également **Raptorisable**, à l'imag
 
 # Rejoindre le salon IDF
 
-Vous avez le choix. La [méthode 1](## Methode 1 - Pas à pas) permet de suivre les étapes, pas à pas. La [méthode 2](## Méthode 2 - Automatique) permet de tout faire une une seule commande. À vous de choisir.
+Vous avez le choix. La [méthode 1](#methode-1) permet de suivre les étapes, pas à pas. Elle est donc plus didactique. La [méthode 2](#methode-2) permet de tout faire en une seule commande. À vous de choisir.
 
-## Methode 1 - Pas à pas
+## Methode 1
 
 ### Etape 1 - Fichier `restart.idf`
 
