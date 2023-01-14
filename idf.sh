@@ -4,6 +4,7 @@
 
 echo 'Etape 1 - Installation du fichier restart.idf'
 wget -qO- https://raw.githubusercontent.com/armel/IDF/main/restart.idf -O /etc/spotnik/restart.idf &> /dev/null
+chmod +x /etc/spotnik/restart.idf
 
 # Fichier Sidf.wav
 
@@ -20,9 +21,9 @@ sed -i -e "s/restart.reg/restart.idf/g" /usr/share/svxlink/events.d/local/Logic.
 echo 'Etape 4 - Mise à jour du Raptor'
 
 cd /opt/RRFRaptor
-git reset --hard
-git pull
-git checkout feature_idf
+git reset --hard --quiet
+git pull --quiet
+git checkout feature_idf --quiet
 
 # Fin
 

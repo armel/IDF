@@ -38,6 +38,8 @@ Concéquence immédiate, le salon IDF est également **Raptorisable**, à l'imag
 
 # Rejoindre le salon IDF
 
+Vous avez le choix. La méthode 1 permet de suivre les étapes, pas à pas. La méthode 2 permet de tout faire une une seule commande. À vous de choisir.
+
 ## Methode 1 - Pas à pas
 
 ### Etape 1 - Fichier `restart.idf`
