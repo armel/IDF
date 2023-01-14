@@ -93,6 +93,35 @@ git checkout feature_idf
 
 Vous pouvez alors modifier éventuellement les paramètres par défaut en éditant le fichier `settings.py`. Consultez la documentation du [Raptor](https://github.com/armel/RRFRaptor/tree/feature_idf) si besoin (fichier `README.md`).
 
+# Règles de fonctionnement
+
+Toutes les règles du RRF s'appliquent au salon IDF et à l'image des salons annexes FON, TEC, INT, BAV, LOC et EXP.
+
+Le TOT est fixé à 5 minutes avec une mise en quarantaine de 30 s.
+
+## Sentinel
+
+Dans l'immediat, la Sentinel s'activera uniquement sur les déclenchements intempestifs COURTS et ISOLES. 
+
+### Règle N°1 - Intempestifs courts
+À partir d'un nombre N de déclenchements intempestifs, concentrés dans un laps de temps L, une mise en quarantaine sera appliquée au point d'accès responsable pour une durée D.
+
+Aujourd'hui, le nombre N est égal à 5 et le laps de temps L a été fixé à 5 minutes. 
+
+### Règle N°2 - Intempestifs isolés
+
+À partir d'un nombre N de déclenchements intempestifs isolés, n'ayant conduit à aucune mise en quarantaine, une mise en quarantaine sera appliquée au point d'accès responsable pour une durée D.
+
+Aujourd'hui, le nombre N est égal à 20.
+
+### Evolution de la durée D
+
+La durée D de la première mise en quarantaine est fixée à 1 minute. Au delà, la durée D est calculée ainsi:
+
+- station répétitrice: 1 minute * nombre de mise en quarantaine,
+- hotspot:  1 minute * nombre de mise en quarantaine * 2.
+
+> Un hotspot est plus fortement pénalisé dans la mesure ou il n'a aucune raison de perturber le salon. 
 
 # Administrateurs
 
