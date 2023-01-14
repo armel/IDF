@@ -6,7 +6,7 @@
 
 En avril 2022, en complément du `(75) F1ZPX U` et `(75) F1ZPX V` (Paris 15), ce salon privé s'est quelque peu ouvert. Dans un premier temps, Stéphane F5LGW, Sysop du `(94) F5ZSO V` (Charenton) et Pascal F4ICR, Sysop du `(94) F1ZUJ U` (Créteil) l'ont rejoints.
 
-Au cours de l'été 2022, l'ANFR a commencé à communiquer autour des JO 2024. Une bonne partie de la communauté RA s'est rapidement inquiétée, craignant d'être expulsée de *ses* bandes, sans concertation. On peut dramatiser, mais on peut aussi suivre une autre approche et tenter d'être acteur d'un tel évenement. 
+Au cours de l'été 2022, l'ANFR a commencé à communiquer autour des JO 2024. Une bonne partie de la communauté RA s'est rapidement inquiétée, craignant d'être expulsée de *ses* bandes, sans concertation. On peut dramatiser, mais on peut aussi suivre une autre approche et tenter d'être acteur d'un tel évènement. 
 
 L'idée de créer un salon IDF (Ile de France), permettant de *fédérer* les points d'accès de la région et capable de créer une *bulle* la plus dense possible, s'est donc précisée un peu plus.
 
@@ -14,7 +14,7 @@ En décembre 2022, ce fût au tour d'Olivier F1GWX, Sysop du `(92) F1ZQC V`, de 
 
 ## Ouverture du salon IDF
 
-Le salon IDF s'inscrit totalement dans la philosophie du RRF. En particulier, il privéligie la radio et impose aux points d'accès d'être 100% radio. Il n'est pas ouvert aux interconnexions. Si vous souhaitez rejoindre le salon IDF, sachez qu'il est ouvert à tous les points d'accès: 
+Le salon IDF s'inscrit totalement dans la philosophie du RRF. En particulier, il privilégie la radio et impose aux points d'accès d'être 100% radio. Il n'est pas ouvert aux interconnexions. Si vous souhaitez rejoindre le salon IDF, sachez qu'il est ouvert à tous les points d'accès: 
 
 - disposant d'un indicatif de station répétitrice (*indicatif en Z*), 
 - disposant d'un CTCSS ou d'un DCS **actifs**,
@@ -34,11 +34,11 @@ Le salon IDF est probablement le salon **s'inscrivant le plus dans l'ADN du RRF*
 - de sa propre **Sentinel**,
 - de son propre **BlockIP**.
 
-Concéquence immédiate, le salon IDF est également **Raptorisable**, à l'image des autres salons *actifs* du RRF (RRF, FON, TEC, INT, BAV, LOC et EXP).
+Conséquence immédiate, le salon IDF est également **Raptorisable**, à l'image des autres salons *actifs* du RRF (RRF, FON, TEC, INT, BAV, LOC et EXP).
 
 # Rejoindre le salon IDF
 
-Vous avez le choix. La méthode 1 permet de suivre les étapes, pas à pas. La méthode 2 permet de tout faire une une seule commande. À vous de choisir.
+Vous avez le choix. La [méthode 1](## Methode 1 - Pas à pas) permet de suivre les étapes, pas à pas. La [méthode 2](## Méthode 2 - Automatique) permet de tout faire une une seule commande. À vous de choisir.
 
 ## Methode 1 - Pas à pas
 
@@ -74,7 +74,7 @@ Editez le fichier `/usr/share/svxlink/events.d/local/Logic.tcl` afin de modifier
 
 ### Etape 4 - Mise à jour du Raptor
 
-Si vous utilisez le Raptor et que vous souhaitez l'utiliser avec le salon IDF, entrez les commandes suivantes :
+Si vous utilisez le Raptor et que vous souhaitez l'utiliser avec le salon IDF, entrez les commandes suivantes:
 
 ```
 cd /opt/RRFRaptor
@@ -83,9 +83,9 @@ git pull
 git checkout feature_idf
 ```
 
-Vous pouvez alors modifier éventuellement les paramétrages par défaut en éditant le fichier `settings.py`. Consultez la documentation du Raptor si besoin (fichier `README.md`).
+Vous pouvez alors modifier éventuellement les paramètres par défaut en éditant le fichier `settings.py`. Consultez la documentation du Raptor si besoin (fichier `README.md`).
 
-## Methode 2 - Automatique
+## Méthode 2 - Automatique
 
 Depuis une simple connexion SSH sur votre Spotnik, entrez la commande:
 
