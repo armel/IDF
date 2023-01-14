@@ -38,7 +38,7 @@ Conséquence immédiate, le salon IDF est également **Raptorisable**, à l'imag
 
 # Rejoindre le salon IDF
 
-Vous avez le choix. La [méthode 1](#m%C3%A9thode-1---automatique) permet de tout faire en une seule commande. La [méthode 2](#m%C3%A9thode-1---pas-%C3%A0-pas) permet de suivre les étapes, pas à pas. Elle est donc plus didactique. À vous de choisir.
+Vous avez le choix. La [méthode 1](#m%C3%A9thode-1---automatique) permet de tout faire en une seule commande. La [méthode 2](#m%C3%A9thode-2---pas-%C3%A0-pas) permet de suivre les étapes, pas à pas. Elle est donc plus didactique. À vous de choisir.
 
 ## Méthode 1 - Automatique
 
