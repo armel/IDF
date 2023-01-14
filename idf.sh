@@ -18,14 +18,21 @@ sed -i -e "s/restart.reg/restart.idf/g" /usr/share/svxlink/events.d/local/Logic.
 
 # Mise à jour Raptor
 
-echo 'Etape 4 - Mise à jour du Raptor'
+echo 'Etape 4.1 - Mise à jour du Raptor'
 
 cd /opt/RRFRaptor
 git reset --hard --quiet
 git pull --quiet
 git checkout feature_idf --quiet
 
+echo 'Etape 4.2 - Redémarrage du Raptor'
+
+/opt/RRFRaptor/RRFRaptor.sh stop
+/opt/RRFRaptor/RRFRaptor.sh start
+
 # Fin
+
+echo 'Etape 5 - Fin'
 
 echo 'Bienvenue sur le salon IDF !'
 echo 'Vous pouvez désormais y acceder depuis la commande DTMF #104.'
