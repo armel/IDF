@@ -3,12 +3,12 @@
 # Fichier restart.idf
 
 echo 'Etape 1 - Installation du fichier restart.idf'
-wget https://raw.githubusercontent.com/armel/IDF/main/restart.idf -O /etc/spotnik/restart.idf
+wget -qO- https://raw.githubusercontent.com/armel/IDF/main/restart.idf -O /etc/spotnik/restart.idf &> /dev/null
 
 # Fichier Sidf.wav
 
 echo 'Etape 2 - Installation du fichier Sidf.wav'
-wget https://raw.githubusercontent.com/armel/IDF/main/Sidf.wav -O /usr/share/svxlink/sounds/fr_FR/RRF/Sidf.wav
+wget -qO- https://raw.githubusercontent.com/armel/IDF/main/Sidf.wav -O /usr/share/svxlink/sounds/fr_FR/RRF/Sidf.wav &> /dev/null
 
 # Mise à jour Logic.tcl
 
