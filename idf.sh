@@ -28,7 +28,9 @@ git checkout feature_idf --quiet
 echo 'Etape 4.2 - Redémarrage du Raptor'
 
 /opt/RRFRaptor/RRFRaptor.sh stop
+sleep 3
 /opt/RRFRaptor/RRFRaptor.sh start
+sleep 3
 
 # Fin
 
