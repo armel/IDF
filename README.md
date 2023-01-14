@@ -87,7 +87,7 @@ Vous pouvez alors modifier éventuellement les paramétrages par défaut en édi
 
 Depuis une simple connexion SSH sur votre Spotnik, entrez la commande:
 
-`/bin/bash -c "$(wget https://raw.githubusercontent.com/armel/IDF/main/idf.sh)"`
+`/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/armel/IDF/main/idf.sh)"`
 
 
 # Administrateurs
