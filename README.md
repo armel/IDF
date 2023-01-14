@@ -91,7 +91,7 @@ git pull
 git checkout feature_idf
 ```
 
-Vous pouvez alors modifier éventuellement les paramètres par défaut en éditant le fichier `settings.py`. Consultez la documentation du Raptor si besoin (fichier `README.md`).
+Vous pouvez alors modifier éventuellement les paramètres par défaut en éditant le fichier `settings.py`. Consultez la documentation du [Raptor](https://github.com/armel/RRFRaptor/tree/feature_idf) si besoin (fichier `README.md`).
 
 
 # Administrateurs
