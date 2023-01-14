@@ -27,5 +27,8 @@ git checkout feature_idf --quiet
 
 # Fin
 
-echo 'Bienvenue sur le salon IDF'
+echo 'Bienvenue sur le salon IDF !'
+echo 'Vous pouvez désormais y acceder depuis la commande DTMF #104.'
+echo 'Bon trafic'
+
 /etc/spotnik/restart.idf
