@@ -44,7 +44,7 @@ Concéquence immédiate, le salon IDF est également **Raptorisable**, à l'imag
 
 Depuis une simple connexion SSH sur votre Spotnik, téléchargez et copiez le fichier `restart.idf` via la commande:
 
-`wget https://github.com/armel/IDF/restart.idf -O /etc/spotnik/restart.idf`
+`wget https://github.com/armel/IDF/blob/main/restart.idf -O /etc/spotnik/restart.idf`
 
 Eventuellement, pensez à le rendre exécutable via la commande:
 
@@ -54,7 +54,7 @@ Eventuellement, pensez à le rendre exécutable via la commande:
 
 Depuis une simple connexion SSH sur votre Spotnik, téléchargez et copiez le fichier `Sidf.wav` via la commande:
 
-`wget https://github.com/armel/IDF/Sidf.wav -O /usr/share/svxlink/sounds/fr_FR/RRF/Sidf.wav`
+`wget https://github.com/armel/IDF/blob/main/Sidf.wav -O /usr/share/svxlink/sounds/fr_FR/RRF/Sidf.wav`
 
 ### Etape 3 - Mise à jour `Logic.tcl`
 
