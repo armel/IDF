@@ -38,9 +38,17 @@ Conséquence immédiate, le salon IDF est également **Raptorisable**, à l'imag
 
 # Rejoindre le salon IDF
 
-Vous avez le choix. La [méthode 1](#m%C3%A9thode-1---pas-%C3%A0-pas) permet de suivre les étapes, pas à pas. Elle est donc plus didactique. La [méthode 2](#m%C3%A9thode-2---automatique) permet de tout faire en une seule commande. À vous de choisir.
+Vous avez le choix. La [méthode 1](#m%C3%A9thode-1---automatique) permet de tout faire en une seule commande. La [méthode 2](#m%C3%A9thode-1---pas-%C3%A0-pas) permet de suivre les étapes, pas à pas. Elle est donc plus didactique. À vous de choisir.
 
-## Méthode 1 - Pas à pas
+## Méthode 1 - Automatique
+
+Depuis une simple connexion SSH sur votre Spotnik, entrez la commande:
+
+`/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/armel/IDF/main/idf.sh)"`
+
+C'est tout.
+
+## Méthode 2 - Pas à pas
 
 ### Etape 1 - Fichier `restart.idf`
 
@@ -84,12 +92,6 @@ git checkout feature_idf
 ```
 
 Vous pouvez alors modifier éventuellement les paramètres par défaut en éditant le fichier `settings.py`. Consultez la documentation du Raptor si besoin (fichier `README.md`).
-
-## Méthode 2 - Automatique
-
-Depuis une simple connexion SSH sur votre Spotnik, entrez la commande:
-
-`/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/armel/IDF/main/idf.sh)"`
 
 
 # Administrateurs
