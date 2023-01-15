@@ -116,10 +116,10 @@ Aujourd'hui, le nombre N est égal à 20.
 
 ### Evolution de la durée D
 
-La durée D de la première mise en quarantaine est fixée à 1 minute. Au delà, la durée D est calculée ainsi:
+La durée D de la première mise en quarantaine est fixée à 5 minutes. Au delà, la durée D est calculée ainsi:
 
-- station répétitrice: 1 minute * nombre de mise en quarantaine,
-- hotspot:  1 minute * nombre de mise en quarantaine * 2.
+- station répétitrice: 5 minutes * nombre de mise en quarantaine,
+- hotspot:  5 minutes * nombre de mise en quarantaine * 2.
 
 > Un hotspot est plus fortement pénalisé dans la mesure ou il n'a aucune raison de perturber le salon. 
 
