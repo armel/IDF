@@ -22,7 +22,7 @@ Le salon IDF s'inscrit totalement dans la philosophie du RRF. En particulier, il
 
 > Si vous êtes Sysop d'un point d'accès proche de la région Ile de France, sans pour autant en faire partie, des exceptions sont possibles et seront étudiées avec bienséance. 
 
-Enfin, le salon IDF est également ouvert aux points d'accès QRP de type hotspot (H ou B).
+Enfin, le salon IDF est également ouvert aux points d'accès QRP de type hotspot (H ou B) sur simple demande.
 
 
 ## Caractéristiques du salon IDF
