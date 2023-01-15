@@ -50,7 +50,9 @@ Depuis une simple connexion SSH sur votre Spotnik, entrez la commande:
 
 `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/armel/IDF/main/idf.sh)"`
 
-C'est tout.
+C'est tout. 
+
+> Le salon IDF est désormais accessible via la commande `DTMF #104`.
 
 ## Méthode 2 - Pas à pas
 
