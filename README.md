@@ -24,7 +24,7 @@ Mais si vous souhaitez rejoindre le salon IDF, sachez qu'il est ouvert à tous l
 
 > Si vous êtes Sysop d'un point d'accès proche de la région Ile de France, sans pour autant en faire partie, des exceptions sont possibles et seront étudiées avec bienséance. 
 
-Enfin, le salon IDF est également ouvert aux points d'accès QRP de type hotspot (H ou B) sur simple demande.
+Enfin, le salon IDF est également ouvert aux points d'accès QRP de type hotspot (H ou B) sur simple demande ou invitation d'un [admin](#administrateurs).
 
 
 ## Caractéristiques du salon IDF
