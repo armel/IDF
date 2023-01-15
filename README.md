@@ -36,7 +36,9 @@ Le salon IDF est probablement le salon **s'inscrivant le plus dans l'ADN du RRF*
 - de sa propre **Sentinel**,
 - de son propre **BlockIP**.
 
-Conséquence immédiate, le salon IDF est également **Raptorisable**, à l'image des autres salons *actifs* du RRF (RRF, FON, TEC, INT, BAV, LOC et EXP).
+Conséquence immédiate, le salon IDF est également **Raptorisable**, à l'image des autres salons *actifs* du RRF (RRF, FON, TEC, INT, BAV, LOC et EXP). Et le salon IDF dispose de tous les outils de monitoring et de suivi de l'activité, à portée de clic. 
+
+L'ensemble de la *tuyauterie* tourne sur une instance VMWare ESXi, 2 vCPU, 4 Go, 20 Go d'espace disque, derrière une connexion fibre. Une solution plus pérenne s'imposera peut-être avec le temps, en fonction de l'utilisation.
 
 # Rejoindre le salon IDF
 
