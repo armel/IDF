@@ -103,7 +103,11 @@ Vous pouvez alors modifier éventuellement les paramètres par défaut en édita
 
 # Règles de fonctionnement
 
-**Toutes les bonnes pratiques du RRF s'appliquent au salon IDF**, à l'image des salons annexes FON, TEC, INT, BAV, LOC et EXP.
+**Toutes les bonnes pratiques du RRF s'appliquent au salon IDF**, à l'image des salons annexes FON, TEC, INT, BAV, LOC et EXP. En complément, les stations répétitrices (*indicatif en Z*) sont vivement invitées à activer le Raptor et *bouger* sur les salons du RRF en priorité ou en cas d'activité.
+
+> Exemple, les stations répétitrices `(75) F1ZPX U` et `(75) F1ZPX V` sont *raptorisées* partout, à l'exception du FON et utilisent le salon IDF comme *room de base* (salon de repos). Au passage, cela permet de limiter les déclenchements intempestifs sur les salons du RRF.
+
+## TOT
 
 Le TOT est fixé à 5 minutes avec une mise en quarantaine de 10 s.
 
