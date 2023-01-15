@@ -52,7 +52,7 @@ Depuis une simple connexion SSH sur votre Spotnik, entrez la commande:
 
 C'est tout. 
 
-> Le salon IDF est désormais accessible via la commande `DTMF #104`.
+> Le salon IDF est désormais accessible via la commande `DTMF 104`.
 
 ## Méthode 2 - Pas à pas
 
