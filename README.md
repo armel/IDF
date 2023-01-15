@@ -40,6 +40,8 @@ Conséquence immédiate, le salon IDF est également **Raptorisable**, à l'imag
 
 L'ensemble de la *tuyauterie* tourne sur une instance VMWare ESXi, 2 vCPU, 4 Go, 20 Go d'espace disque, derrière une connexion fibre. Une solution plus pérenne s'imposera peut-être avec le temps, en fonction de l'utilisation.
 
+![Console Web](https://github.com/armel/IDF/blob/main/img/IDF.png)
+
 # Rejoindre le salon IDF
 
 Vous avez le choix. La [méthode 1](#m%C3%A9thode-1---automatique) permet de tout faire en une seule commande. La [méthode 2](#m%C3%A9thode-2---pas-%C3%A0-pas) permet de suivre les étapes, pas à pas. Elle est donc plus didactique. À vous de choisir.
