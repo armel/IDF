@@ -97,7 +97,7 @@ Vous pouvez alors modifier éventuellement les paramètres par défaut en édita
 
 Toutes les règles du RRF s'appliquent au salon IDF et à l'image des salons annexes FON, TEC, INT, BAV, LOC et EXP.
 
-Le TOT est fixé à 5 minutes avec une mise en quarantaine de 30 s.
+Le TOT est fixé à 5 minutes avec une mise en quarantaine de 10 s.
 
 ## Sentinel
 
