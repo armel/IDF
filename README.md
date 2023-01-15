@@ -2,7 +2,7 @@
 
 ## Historique
 
-À partir de fin 2021, le salon EXPERIMENTAL du RRF était régulièrement occupé par une poignée d'OMs. Le besoin de disposer d'un salon privé, afin de pouvoir expérimenter et tester des choses, sans risquer de perturber l'ensemble du réseau RRF, s'est fait ressentir.
+À partir de fin 2021, le salon EXPERIMENTAL du RRF était régulièrement occupé par une poignée d'OMs. Il l'est toujours depuis. Le besoin de disposer d'un salon privé, afin de pouvoir expérimenter et tester des choses, sans risquer de perturber l'ensemble du réseau RRF, s'est donc fait ressentir.
 
 En avril 2022, en complément du `(75) F1ZPX U` et `(75) F1ZPX V` (Paris 15), ce salon privé s'est quelque peu ouvert. Dans un premier temps, Stéphane F5LGW, Sysop du `(94) F5ZSO V` (Charenton) et Pascal F4ICR, Sysop du `(94) F1ZUJ U` (Créteil) l'ont rejoints.
 
