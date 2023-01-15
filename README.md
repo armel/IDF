@@ -14,7 +14,9 @@ En décembre 2022, ce fût au tour d'Olivier F1GWX, Sysop du `(92) F1ZQC V`, de 
 
 ## Ouverture du salon IDF
 
-Le salon IDF s'inscrit totalement dans la philosophie du RRF. En particulier, il privilégie la radio et impose aux points d'accès d'être 100% radio. Il n'est pas ouvert aux interconnexions. Si vous souhaitez rejoindre le salon IDF, sachez qu'il est ouvert à tous les points d'accès: 
+Le salon IDF s'inscrit totalement dans la philosophie du RRF. En particulier, il privilégie la radio et impose aux points d'accès d'être 100% radio. Il n'est pas ouvert aux interconnexions. Si vous n'appréciez pas le RRF, inutile de s'y connecter.
+
+Mais si vous souhaitez rejoindre le salon IDF, sachez qu'il est ouvert à tous les points d'accès: 
 
 - disposant d'un indicatif de station répétitrice (*indicatif en Z*), 
 - disposant d'un CTCSS ou d'un DCS **actifs**,
