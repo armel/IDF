@@ -112,7 +112,7 @@ Vous pouvez alors modifier éventuellement les paramètres par défaut en édita
 Dans l'immediat, la Sentinel s'activera uniquement sur le TOT et les déclenchements intempestifs COURTS et ISOLES. Elle ne s'activera pas sur les CAMPEURS, pour des raisons évidentes.
 
 ### Règle N°0 - TOT
-Le TOT est fixé à 5 minutes avec une mise en quarantaine de 10 s.
+Le TOT est fixé à 5 minutes avec une mise en quarantaine de 10 secondes.
 
 ### Règle N°1 - Intempestifs courts
 À partir d'un nombre N de déclenchements intempestifs, concentrés dans un laps de temps L, une mise en quarantaine sera appliquée au point d'accès responsable pour une durée D.
