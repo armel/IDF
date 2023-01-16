@@ -107,13 +107,12 @@ Vous pouvez alors modifier éventuellement les paramètres par défaut en édita
 
 > Exemple, les stations répétitrices `(75) F1ZPX U` et `(75) F1ZPX V` sont *raptorisées* partout, à l'exception du FON et utilisent le salon IDF comme *room de base* (salon de repos). Au passage, cela permet de limiter les déclenchements intempestifs sur les salons du RRF.
 
-## TOT
-
-Le TOT est fixé à 5 minutes avec une mise en quarantaine de 10 s.
-
 ## Sentinel
 
-Dans l'immediat, la Sentinel s'activera uniquement sur les déclenchements intempestifs COURTS et ISOLES. 
+Dans l'immediat, la Sentinel s'activera uniquement sur le TOT et les déclenchements intempestifs COURTS et ISOLES. 
+
+### Règle N°0 - TOT
+Le TOT est fixé à 5 minutes avec une mise en quarantaine de 10 s.
 
 ### Règle N°1 - Intempestifs courts
 À partir d'un nombre N de déclenchements intempestifs, concentrés dans un laps de temps L, une mise en quarantaine sera appliquée au point d'accès responsable pour une durée D.
