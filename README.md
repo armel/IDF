@@ -8,6 +8,8 @@ En avril 2022, en complément du `(75) F1ZPX U` et `(75) F1ZPX V` (Paris 15), ce
 
 Au cours de l'été 2022, l'ANFR a commencé à communiquer autour des JO 2024. Une bonne partie de la communauté RA s'est rapidement inquiétée, craignant d'être expulsée de *ses* bandes, sans concertation. On peut dramatiser, mais on peut aussi suivre une autre approche et tenter d'être acteur d'un tel évènement. 
 
+En complément, la disparition du R0, F5ZAD, a créer un vide.
+
 L'idée de créer un salon IDF (Ile de France), permettant de *fédérer* les points d'accès de la région et capable de créer une *bulle* la plus dense possible, s'est donc précisée un peu plus.
 
 En décembre 2022, ce fût au tour d'Olivier F1GWX, Sysop du `(92) F1ZQC V`, de rejoindre le salon IDF.
