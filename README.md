@@ -4,11 +4,11 @@
 
 À partir de fin 2021, le salon EXPERIMENTAL du RRF était régulièrement occupé par une poignée d'OMs. Il l'est toujours depuis. Le besoin de disposer d'un salon privé, afin de pouvoir expérimenter et tester des choses, sans risquer de perturber l'ensemble du réseau RRF, s'est donc fait ressentir.
 
-En avril 2022, en complément du `(75) F1ZPX U` et `(75) F1ZPX V` (Paris 15), ce salon privé s'est quelque peu ouvert. Dans un premier temps, Stéphane F5LGW, Sysop du `(94) F5ZSO V` (Charenton) et Pascal F4ICR, Sysop du `(94) F1ZUJ U` (Créteil) l'ont rejoints.
+En avril 2022, en complément du `(75) F1ZPX U` et `(75) F1ZPX V` (Paris 15), ce salon privé s'est quelque peu ouvert. Dans un premier temps, Stéphane F5LGW, Sysop du `(94) F5ZSO V` (Charenton) et Pascal F4ICR, Sysop du `(94) F1ZUJ U` (Créteil) l'ont rejoints. 
+
+En parallèle, le célèbre RO `F5ZAD` a cessé de fonctionner, créant un vide. Ce relais rayonnait sur toute l'Ile de France, depuis des décennies. Nombreux sont ceux qui l'ont utilisé.
 
 Au cours de l'été 2022, l'ANFR a commencé à communiquer autour des JO 2024. Une bonne partie de la communauté RA s'est rapidement inquiétée, craignant d'être expulsée de *ses* bandes, sans concertation. On peut dramatiser, mais on peut aussi suivre une autre approche et tenter d'être acteur d'un tel évènement. 
-
-En complément, la disparition du R0, F5ZAD, a créer un vide.
 
 L'idée de créer un salon IDF (Ile de France), permettant de *fédérer* les points d'accès de la région et capable de créer une *bulle* la plus dense possible, s'est donc précisée un peu plus.
 
