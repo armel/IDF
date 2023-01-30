@@ -1,14 +1,14 @@
 #!/bin/bash
 
-# DTMF 104 RRF #
-# Stop svxlink
+# DTMF 104
+# Arret svxlink
 if pgrep -x svxlink >/dev/null
 then
     pkill -TERM svxlink
     pkill -f timersalon
 fi
 
-# Save network
+# Sauvegarde du network
 echo "idf" > /etc/spotnik/network
 
 # Gestion des annonces vocales 
@@ -27,17 +27,17 @@ echo "PORT=5300" >>/etc/spotnik/svxlink.idf
 
 sleep 1
 
-# Clear logs
+# Nettoyage des logs
 > /tmp/svxlink.log
 
-# Launch svxlink
+# Lancement svxlink
 svxlink --daemon --logfile=/tmp/svxlink.log --pidfile=/var/run/svxlink.pid --runasuser=root --config=/etc/spotnik/svxlink.idf
 sleep 1
 
-# Enable propagation monitor module
+# Activation du module de propagation
 echo "10#" > /tmp/dtmf_uhf
 echo "10#" > /tmp/dtmf_vhf
 
-# Debut gestion timer salon:
+# Debut gestion timer salon
 pkill -f timersalon
 sh /etc/spotnik/timersalon.sh &
