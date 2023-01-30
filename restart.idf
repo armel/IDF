@@ -37,3 +37,7 @@ sleep 1
 # Enable propagation monitor module
 echo "10#" > /tmp/dtmf_uhf
 echo "10#" > /tmp/dtmf_vhf
+
+# Debut gestion timer salon:
+pkill -f timersalon
+sh /etc/spotnik/timersalon.sh &

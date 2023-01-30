@@ -40,7 +40,7 @@ Le salon IDF est probablement le salon **s'inscrivant le plus dans l'ADN du RRF*
 
 Conséquence immédiate, le salon IDF est également **Raptorisable**, à l'image des autres salons *actifs* du RRF (RRF, FON, TEC, INT, BAV, LOC et EXP). Et le salon IDF dispose de **tous les outils de monitoring et de suivi de l'activité**, à portée de clic. 
 
-L'ensemble de la *tuyauterie* tourne sur une instance VMWare ESXi, 2 vCPU, 4 Go, 20 Go d'espace disque, derrière une connexion fibre. Une solution plus pérenne s'imposera peut-être avec le temps, en fonction de l'utilisation. Mais ce salon n'a pas l'ambition de croitre de façon démeusurée et de *cloner* ce qui existe déjà et qui fonctionne très bien, à savoir, le RRF.
+L'ensemble de la *tuyauterie* tourne sur une instance VMWare ESXi, 4 vCPU, 4 Go, 20 Go d'espace disque, derrière une connexion fibre. Une solution plus pérenne s'imposera peut-être avec le temps, en fonction de l'utilisation. Mais ce salon n'a pas l'ambition de croitre de façon démeusurée et de *cloner* ce qui existe déjà et qui fonctionne très bien, à savoir, le RRF.
 
 ![Console Web](https://github.com/armel/IDF/blob/main/images/IDF.png)
 
