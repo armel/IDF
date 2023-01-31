@@ -48,7 +48,7 @@ L'ensemble de la *tuyauterie* tourne sur une instance VMWare ESXi, 4 vCPU, 4 Go,
 
 Vous avez le choix. La [méthode 1](#m%C3%A9thode-1---automatique) permet de tout faire en une seule commande. La [méthode 2](#m%C3%A9thode-2---pas-%C3%A0-pas) permet de suivre les étapes, pas à pas. Elle est donc plus didactique. À vous de choisir. 
 
-> Si vous vous contentez d'installer le fichier `restart.idf` sans mettre à jour le Raptor, désactivez-le avant de rejoindre le salon IDF... Le Raptor n'a, en standard, *aucune connaissance de ce salon IDF*. Il vous renverra donc sur votre salon de base, qui est très probablement le salon d'appel RRF. Et merci de lire ou relire les [documentations](https://github.com/armel/RRFRaptor/blob/master/README.md). Elles sont faites pour cela. Bref, RTFM, merci ! 
+> Si vous vous contentez d'installer le fichier `restart.idf` sans mettre à jour le Raptor, désactivez-le avant de rejoindre le salon IDF... Le Raptor n'a, en standard, **aucune connaissance de ce salon IDF**. Il vous renverra donc sur votre salon de base, qui est très probablement le salon d'appel RRF. Et merci de lire ou relire les [documentations](https://github.com/armel/RRFRaptor/blob/master/README.md). Elles sont faites pour cela. Bref, RTFM, merci ! 
 
 ## Méthode 1 - Automatique
 
